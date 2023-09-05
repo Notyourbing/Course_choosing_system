@@ -1,1 +1,1 @@
-# Course_choosing_system
+# 选课系统C++项目
